@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "newsnow",
-      "path": "03_项目与工作/01_开源项目/newsnow.md"
+      "basename": "中图法",
+      "path": "知识管理/中图法.md"
     },
     {
       "basename": "主页",
@@ -21,16 +21,12 @@
       "path": "知识管理/Obsidian.md"
     },
     {
-      "basename": "中图法",
-      "path": "04_知识与主题/中图法.md"
-    },
-    {
       "basename": "Vercel",
-      "path": "应用开发/部署/Vercel.md"
+      "path": "应用开发/1_部署/Vercel.md"
     },
     {
       "basename": "Cloudflare Pages",
-      "path": "应用开发/部署/Cloudflare Pages.md"
+      "path": "应用开发/1_部署/Cloudflare Pages.md"
     }
   ],
   "omittedPaths": [],

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_项目与工作/01_开源项目/newsnow.md",
+                "file": "知识管理/中图法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "newsnow"
+              "title": "中图法"
             }
           }
         ],
@@ -229,17 +229,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d4e6707ad95fcd27",
+  "active": "8014c571630387e1",
   "lastOpenFiles": [
-    "主页.md",
+    "应用开发/2_前端",
+    "应用开发/Untitled.md",
+    "知识管理/中图法.md",
     "03_项目与工作/01_开源项目/newsnow.md",
+    "主页.md",
     "03_项目与工作/01_开源项目",
     "README.md",
     "知识管理/知识管理.md",
     "知识管理/Obsidian.md",
-    "04_知识与主题/中图法.md",
-    "应用开发/部署/Vercel.md",
-    "应用开发/部署/Cloudflare Pages.md",
+    "应用开发/1_部署/Vercel.md",
+    "应用开发/1_部署/Cloudflare Pages.md",
     "04_知识与主题",
     "03_项目与工作",
     "02_读书笔记",
@@ -264,7 +266,6 @@
     "copilot",
     "知识管理",
     "应用开发",
-    "时间线.md",
-    "Welcome.md"
+    "时间线.md"
   ]
 }
