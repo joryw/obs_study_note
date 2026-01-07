@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用开发/部署/Vercel.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercel"
+              "title": "README"
             }
           }
         ]
@@ -181,11 +181,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8014c571630387e1",
+  "active": "23975c6c3d87c19c",
   "lastOpenFiles": [
-    "应用开发",
+    "主页.md",
     "README.md",
+    "应用开发/部署/Cloudflare Pages.md",
     "应用开发/部署/Vercel.md",
+    "应用开发",
     "应用开发/部署",
     "时间线.md",
     "Untitled.base",
@@ -196,7 +198,6 @@
     "3.事业与学习(职业发展、技能、学历证书)",
     "2.人际与亲密关系(家人、伴侣、朋友、人脉)",
     "1.身心健康/Untitled",
-    "1.身心健康(身体、心理)",
     "Welcome.md"
   ]
 }
