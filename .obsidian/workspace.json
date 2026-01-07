@@ -8,20 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23975c6c3d87c19c",
+            "id": "df9038b79c4b7826",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-release-notes"
+            }
+          },
+          {
+            "id": "e37dd92b661827eb",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled mindmap.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "blocks",
+              "title": "Untitled mindmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,6 +81,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4399a10821d6691b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -154,8 +173,28 @@
             "state": {
               "type": "calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "e8d5d7de62f55272",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "02c436ae23414acc",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Timeline"
             }
           }
         ]
@@ -178,27 +217,49 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "copilot:Open Copilot Chat": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "23975c6c3d87c19c",
+  "active": "e37dd92b661827eb",
   "lastOpenFiles": [
-    "知识管理.md",
-    "README.md",
     "主页.md",
+    "Untitled mindmap.md",
+    "README.md",
+    "Home.md",
+    "Untitled.base",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "知识管理.md",
     "知识管理",
     "应用开发/部署/Vercel.md",
     "应用开发/部署/Cloudflare Pages.md",
     "应用开发",
     "应用开发/部署",
     "时间线.md",
-    "Untitled.base",
     "7.灵性与意义感(人生意义、信念、长期愿景)",
     "6.生活方式与环境(日常作息、生活习惯、居住环境)",
     "5.个人成长与内在(兴趣、价值观、性格成长、心理韧性)",
     "4.财务与物质基础(收入、储蓄、债务、资产)",
-    "3.事业与学习(职业发展、技能、学历证书)",
-    "2.人际与亲密关系(家人、伴侣、朋友、人脉)",
     "Welcome.md"
   ]
 }
