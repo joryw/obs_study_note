@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "应用开发/部署/Vercel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Vercel"
             }
           }
         ]
@@ -181,10 +181,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "23975c6c3d87c19c",
+  "active": "8014c571630387e1",
   "lastOpenFiles": [
-    "时间线.md",
+    "应用开发",
     "README.md",
+    "应用开发/部署/Vercel.md",
+    "应用开发/部署",
+    "时间线.md",
     "Untitled.base",
     "7.灵性与意义感(人生意义、信念、长期愿景)",
     "6.生活方式与环境(日常作息、生活习惯、居住环境)",
