@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "中图法",
+      "path": "04_知识与主题/中图法.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "知识管理/Obsidian.md"
     },
