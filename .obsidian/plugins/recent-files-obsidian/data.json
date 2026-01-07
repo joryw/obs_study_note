@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "知识管理",
-      "path": "知识管理.md"
-    },
-    {
-      "basename": "主页",
-      "path": "主页.md"
+      "basename": "Obsidian",
+      "path": "知识管理/Obsidian.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "知识管理",
+      "path": "知识管理.md"
+    },
+    {
+      "basename": "Remove URLs",
+      "path": "copilot/copilot-custom-prompts/Remove URLs.md"
+    },
+    {
+      "basename": "Make shorter",
+      "path": "copilot/copilot-custom-prompts/Make shorter.md"
+    },
+    {
+      "basename": "Make longer",
+      "path": "copilot/copilot-custom-prompts/Make longer.md"
+    },
+    {
+      "basename": "Generate glossary",
+      "path": "copilot/copilot-custom-prompts/Generate glossary.md"
+    },
+    {
+      "basename": "Emojify",
+      "path": "copilot/copilot-custom-prompts/Emojify.md"
+    },
+    {
+      "basename": "Explain like I am 5",
+      "path": "copilot/copilot-custom-prompts/Explain like I am 5.md"
+    },
+    {
+      "basename": "Fix grammar and spelling",
+      "path": "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    },
+    {
+      "basename": "主页",
+      "path": "主页.md"
     }
   ],
   "omittedPaths": [],

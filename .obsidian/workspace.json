@@ -21,12 +21,14 @@
             "id": "e37dd92b661827eb",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "知识管理.md"
+                "file": "知识管理/Obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "知识管理"
+              "icon": "lucide-file",
+              "title": "Obsidian"
             }
           }
         ],
@@ -227,26 +229,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8014c571630387e1",
+  "active": "e37dd92b661827eb",
   "lastOpenFiles": [
+    "README.md",
     "知识管理.md",
+    "知识管理/Obsidian.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "Untitled.base",
     "主页.md",
-    "README.md",
     "Home.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "知识管理",
