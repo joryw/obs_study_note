@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "中图法",
-      "path": "04_知识与主题/中图法.md"
-    },
-    {
       "basename": "Obsidian",
       "path": "知识管理/Obsidian.md"
     },
@@ -19,6 +11,22 @@
     {
       "basename": "主页",
       "path": "主页.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "中图法",
+      "path": "04_知识与主题/中图法.md"
+    },
+    {
+      "basename": "Vercel",
+      "path": "应用开发/部署/Vercel.md"
+    },
+    {
+      "basename": "Cloudflare Pages",
+      "path": "应用开发/部署/Cloudflare Pages.md"
     }
   ],
   "omittedPaths": [],

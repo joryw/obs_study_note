@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "知识管理/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian"
             }
           }
         ],
@@ -229,18 +229,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8014c571630387e1",
+  "active": "d4e6707ad95fcd27",
   "lastOpenFiles": [
-    "04_知识与主题/中图法.md",
+    "知识管理.md",
+    "主页.md",
     "README.md",
+    "知识管理/Obsidian.md",
+    "04_知识与主题/中图法.md",
+    "应用开发/部署/Vercel.md",
+    "应用开发/部署/Cloudflare Pages.md",
     "04_知识与主题",
     "03_项目与工作",
     "02_读书笔记",
     "Untitled.md",
     "01_生活记录",
-    "知识管理/Obsidian.md",
-    "知识管理.md",
-    "主页.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
@@ -259,8 +261,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "知识管理",
-    "应用开发/部署/Vercel.md",
-    "应用开发/部署/Cloudflare Pages.md",
     "应用开发",
     "应用开发/部署",
     "时间线.md",
