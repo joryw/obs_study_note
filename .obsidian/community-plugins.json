@@ -27,5 +27,6 @@
   "obsidian-markmind",
   "obsidian-enhancing-mindmap",
   "extract-url",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "floating-toc"
 ]
