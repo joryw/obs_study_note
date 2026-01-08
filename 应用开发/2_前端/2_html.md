@@ -76,3 +76,49 @@ Sources
 [8] 你真的了解响应式布局吗？ · Issue #4 · liuyuanquan/note https://github.com/liuyuanquan/note/issues/4
 [9] 前端|响应式布局原理-腾讯云开发者社区-腾讯云 https://cloud.tencent.com/developer/article/1698575
 [10] 简单聊下响应式布局 - hddhyq's blog https://hddhyq.github.io/2019/01/15/%E7%AE%80%E5%8D%95%E8%81%8A%E4%B8%8B%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80/
+
+# 3.SEO Meta Tags和Schema.org markup for Google区别
+这两段代码都是给搜索引擎看的，但作用层级和细腻程度不一样：meta 标签是“页面摘要”，而 Schema.org 是“结构化的页面说明书”，能提供更精细的语义信息。[5][6]
+
+## 这段 meta 标签在做什么
+
+- `description`：给搜索引擎和部分社交平台一个页面摘要，常用于搜索结果中的那两行描述文案。[6][8]
+- `keywords`：早期用来提示页面关键词，如今主流搜索引擎基本不再依赖它排名，但保留也不会有坏处。[6]
+- `author`：说明内容作者或发布方名称，有助于简单归属识别。[6]
+- `robots`：告诉搜索引擎这个页面是否允许收录、是否跟踪链接（`index, follow` 表示可以收录并跟踪）。[6]
+
+这类信息都是“非结构化的文本描述”，搜索引擎只能大致理解页面内容和爬取策略。[6][7]
+
+## 和 Schema.org 那段的核心区别
+
+- 表达形式不同：  
+  - meta 标签是若干离散的键值对，整体只是“描述这页大概是啥”。[6]
+  - Schema.org JSON‑LD 是一块结构化数据，里面有“这是一个 WebSite，它叫 NewsNow，网址是 X，有这些属性”。[5][9]
+
+- 语义精度不同：  
+  - meta 更偏“摘要/说明书封面”，告诉搜索引擎标题、描述、作者之类的基础信息。[5][6]
+  - Schema.org 更像“详细档案”，用统一词汇表标明实体类型（网站、文章、产品等）及其属性，机器更容易准确理解和关联。[3][5]
+
+- 对搜索结果表现的影响方式不同：  
+  - meta 描述主要影响普通蓝色链接下那段文字，对能否展示“富结果”帮助有限。[6][7]
+  - Schema.org 结构化数据是搜索引擎生成富摘要、知识面板、星级评价等丰富结果的重要依据，对展现形式的提升潜力更大（虽然不直接等于排名提升）。[4][3][9]
+
+## 实际使用建议
+
+- 这两段不是替代关系，而是互补：  
+  - 继续保留并优化 meta（特别是 `description`），提升搜索结果点击率。[6][7]
+  - 同时保持 Schema.org JSON‑LD 标记，帮助搜索引擎更深入理解“NewsNow”是一个什么类型的网站，有利于后续富结果等展示。[4][5][10]
+
+简单讲：meta 解决“这页大概是啥、要不要收录”，Schema.org 解决“这到底是什么实体、具体有哪些属性”。
+
+Sources
+[1] Open Graph Tags vs Schema for SEO: Key Differences Explained https://www.opengraph.io/og-tags-vs-schema
+[2] Explain the difference between schema, metadata, and meta tags? https://community.shopify.com/c/technical-q-a/explain-the-difference-between-schema-metadata-and-meta-tags/td-p/1196898
+[3] What is Schema Markup & how does it affect SEO during website ... https://www.specbee.com/blogs/how-schema-markup-impacts-seo-during-website-migrations
+[4] The Benefits of Schema Markup & Why It's Important for SEO https://www.schemaapp.com/schema-markup/benefits-of-schema-markup/
+[5] [Note] What is Schema Markup (schema.org) ? Why is it important for ... https://blog.simon-hu.org/posts/2025/02---febuary/2025-02-12-schema-org-structured-meta-data/
+[6] Meta Tags Schema Markup https://s3.nl-ams.scw.cloud/what-is-seo/meta-tags-schema-markup.html
+[7] Metadata and Schema Markup Optimization - aaPanel https://www.aapanel.com/blog/metadata-and-schema-markup-optimization/
+[8] SEO: Metadata - Next.js https://nextjs.org/learn/seo/metadata
+[9] How Google Handles Structured Data & Schema Markup - SEO Tips https://www.lumar.io/office-hours/structured-data/
+[10] Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond. https://schema.org
