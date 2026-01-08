@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "newsnow",
-      "path": "应用开发/3_项目/newsnow.md"
-    },
-    {
-      "basename": "5.构建",
-      "path": "应用开发/2_前端/5.构建.md"
-    },
-    {
       "basename": "4.React",
       "path": "应用开发/2_前端/4.React.md"
     },
@@ -19,6 +11,14 @@
     {
       "basename": "2_html",
       "path": "应用开发/2_前端/2_html.md"
+    },
+    {
+      "basename": "5.构建",
+      "path": "应用开发/2_前端/5.构建.md"
+    },
+    {
+      "basename": "newsnow",
+      "path": "应用开发/3_项目/newsnow.md"
     },
     {
       "basename": "1_包管理器命令行工具",

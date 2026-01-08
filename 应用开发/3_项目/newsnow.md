@@ -13,4 +13,5 @@ return <Column id={id} />
 
 }
 ```
-情况1：userMemo的参数为空数组， 则focusSourcesAtom发生变化时，组件重新渲染， 但是Column都是使用上次的值，
+情况1：userMemo的参数为空数组， 则focusSourcesAtom发生变化时，组件重新渲染， 但是Column都是使用上次的值，useMemo上次调用的值，所以页面不会发生变化
+情况2：userMemo的参数为focusSources.length，则focusSourcesAtom发生变化时，组件重新渲染， 此时会重新计算id， 得到新的渲染页面。
