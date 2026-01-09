@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "应用开发/2_前端/1_包管理器命令行工具.md",
+                "file": "应用开发/2_前端/4_React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_包管理器命令行工具"
+              "title": "4_React"
             }
           }
         ],
@@ -147,11 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "应用开发/2_前端/4_React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 4_React"
             }
           },
           {
@@ -254,16 +255,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8014c571630387e1",
+  "active": "2d44778d8128029d",
   "lastOpenFiles": [
-    "应用开发/4_全栈/Nitro.md",
+    "应用开发/2_前端/6_ui.md",
+    "应用开发/2_前端/4_React.md",
     "职场/沟通.md",
+    "应用开发/4_全栈/Nitro.md",
     "职场",
-    "应用开发/2_前端/5.构建.md",
+    "应用开发/2_前端/5_构建.md",
     "应用开发/4_全栈",
     "应用开发/4.后端/Untitled.md",
     "应用开发/4.后端",
-    "应用开发/2_前端/4.React.md",
     "应用开发/2_前端/3_分析.md",
     "应用开发/2_前端/2_html.md",
     "应用开发/3_项目/newsnow.md",
@@ -290,7 +292,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Summarize.md"
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
   ]
 }
